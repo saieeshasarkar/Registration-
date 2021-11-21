@@ -15,6 +15,8 @@ $mobile_number =$_POST["mobile_number"];
 $password =$_POST["password"];
 $email =$_POST["email"];
 
+echo "thank you for registration<br>";
+echo " your unsername is" . $first_name . " " . $last_name;
 
 
 ?>
